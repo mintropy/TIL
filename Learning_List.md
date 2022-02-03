@@ -4,6 +4,7 @@
 - Django 
     - st : [22-01-13](2022/01/22-01-13%20TIL.md)
     - model issues : [22-01-27](2022/01/22-01-27%20TIL.md)
+    - ViewSet : [22-02-03](2022/02/22-02-03%20TIL.md)
 - GraphQL & StrawBerry
     - st : [22-01-16](2022/01/22-01-17%20TIL.md)
 - GIT
